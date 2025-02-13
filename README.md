@@ -1,16 +1,38 @@
-# hng12country
+# HNG12 Country 
 
-A new Flutter project.
+## Description
 
-## Getting Started
+This repository display the list of the countries in the world and some details information about them.
 
-This project is a starting point for a Flutter application.
+## Objectives
 
-A few resources to get you started if this is your first Flutter project:
+- To Display the list of all the countries
+- To show some details information about those countries
+- To search a country by using the country name.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Setup Instructions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. clone the repository
+
+  ```sh
+  git clone https://github.com/Phillip4reall/Hng12_countries.git
+  ```
+
+2. Open the project in your chosen development environment (e.g., Android Studio for Android, Xcode for iOS).
+
+3. Run "flutter pub get" to add the dependencies.
+
+4. Build and run the app on an emulator or physical device
+
+## Apk Appetize link
+
+Check the APK file from [here](https://appetize.io/embed/b_k3qyuotptn3anw2672dtc7r3nm).
+
+## Flutter packacge used
+
+- Http
+- Provider
+
+
+
+
